@@ -1,4 +1,11 @@
 # 🎓 AI-Assisted Website Quality Auditor — Education Sector
+## 🌐 Live Demo
+
+🔗 **[View Live Audit Report](https://imbisat-mahmood.github.io/education-website-auditor/reports/audit_report.html)**
+
+The report is deployed via GitHub Pages and shows real-time facts + AI judgments for 6 education-sector websites.
+
+---
 
 > An AI-powered tool that audits education-sector websites and generates a
 > professional, structured quality report — combining rule-based detection
