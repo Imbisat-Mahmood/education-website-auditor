@@ -1,0 +1,99 @@
+[
+  {
+    "url": "https://www.khanacademy.org",
+    "status": "success",
+    "data": {
+      "title": "Client Challenge",
+      "meta_description": "Missing",
+      "load_time_seconds": 1.03,
+      "h1_count": 0,
+      "h2_count": 0,
+      "total_links": 0,
+      "total_images": 1,
+      "images_missing_alt": 1,
+      "has_email_pattern": false,
+      "has_phone_pattern": false,
+      "html_lang": "en",
+      "http_status": 200
+    }
+  },
+  {
+    "url": "https://www.coursera.org",
+    "status": "success",
+    "data": {
+      "title": "Coursera | Online Courses, Certificates, & Degrees",
+      "meta_description": "Learn job-ready skills with online courses, Professional Certificates, Specializations, and degrees from Google, Meta, Anthropic, DeepLearning.AI, Stanford, and more. Start learning today.",
+      "load_time_seconds": 1.59,
+      "h1_count": 1,
+      "h2_count": 22,
+      "total_links": 167,
+      "total_images": 35,
+      "images_missing_alt": 18,
+      "has_email_pattern": false,
+      "has_phone_pattern": true,
+      "html_lang": "en",
+      "http_status": 200
+    }
+  },
+  {
+    "url": "https://www.edx.org",
+    "status": "success",
+    "data": {
+      "title": "edX | Online Courses, Certificates & Degrees from Leading Institutions",
+      "meta_description": "Find the online learning path for you, delivered by world-class institutions like Harvard, Google, Amazon, and more.",
+      "load_time_seconds": 1.34,
+      "h1_count": 0,
+      "h2_count": 8,
+      "total_links": 97,
+      "total_images": 52,
+      "images_missing_alt": 2,
+      "has_email_pattern": false,
+      "has_phone_pattern": true,
+      "html_lang": "en",
+      "http_status": 200
+    }
+  },
+  {
+    "url": "https://www.udemy.com",
+    "status": "success",
+    "data": {
+      "title": "Udemy: Online Courses for Skills, Careers & AI",
+      "meta_description": "Learn in-demand skills with online courses, get professional certificates that advance your career, and explore courses in AI, coding, business and more.",
+      "load_time_seconds": 1.4,
+      "h1_count": 0,
+      "h2_count": 8,
+      "total_links": 20,
+      "total_images": 24,
+      "images_missing_alt": 8,
+      "has_email_pattern": false,
+      "has_phone_pattern": true,
+      "html_lang": "en",
+      "http_status": 200
+    }
+  },
+  {
+    "url": "https://www.udacity.com",
+    "status": "success",
+    "data": {
+      "title": "Learn the Latest Tech Skills; Advance Your Career | Udacity",
+      "meta_description": "Learn online and advance your career with courses in programming, data science, artificial intelligence, digital marketing, and more. Gain in-demand technical skills. Join today!",
+      "load_time_seconds": 1.37,
+      "h1_count": 1,
+      "h2_count": 12,
+      "total_links": 136,
+      "total_images": 133,
+      "images_missing_alt": 99,
+      "has_email_pattern": false,
+      "has_phone_pattern": true,
+      "html_lang": "en",
+      "http_status": 200
+    }
+  },
+  {
+    "url": "https://www.futurelearn.com",
+    "status": "error",
+    "data": {
+      "error": "HTTP 403"
+    }
+  }
+]
